@@ -16,7 +16,7 @@ Markdown 还不是很熟,能先记录一下东西就行.
 {% highlight js %}
 
 while(true){
-console.log('Hello world!!');  
+console.log('Hello world!!');
 }
 {% endhighlight %}
 
