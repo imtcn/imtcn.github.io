@@ -18,12 +18,13 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
-  font-family: "open sans", sans-serif;
-  font-weight: 600;
+  /*font-family: "open sans", sans-serif;*/
+  /*font-weight: 600;*/
+  font-family: 'Microsoft Yahei',Verdana,Arial,Helvetica,sans-serif;
 }
 
 h1.title {
-  font-weight: 800;
+  font-weight: 600;
 }
 
 h1 {
@@ -121,8 +122,8 @@ nav hr {
 
 #post pre {
   border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+  background-color: #efefef;
+  padding: 0.5em;
   margin-bottom: 20px !important;
 }
 
@@ -133,7 +134,7 @@ nav hr {
 
 #post code {
   border: 1px solid #ddd;
-  background-color: #eef;
+  background-color: #efefef;
   font-size: 85%;
   padding: 0 .2em;
 }
