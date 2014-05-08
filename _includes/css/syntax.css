@@ -23,7 +23,7 @@ code, pre { font-family: Monaco,Menlo,Consolas,"Courier New",monospace; }
     height:50px;
     background-color:#40AA52;
     -webkit-border-radius:4px;
-} 
+}
 ::selection {
     color: #fff;
     background-color: #40AA52;

@@ -5,7 +5,7 @@ categories: 语法语义
 tags: Markdown
 ---
 
-#####[查看源头](https://gitcafe.com/riku/Markdown-Syntax-CN/blob/master/syntax.md)
+#####[-本文出自此处,可能有稍改-](https://gitcafe.com/riku/Markdown-Syntax-CN/blob/master/syntax.md)
 ---
 
 *   [概述](#overview)
